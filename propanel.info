@@ -1,0 +1,7 @@
+name = Pro Panel
+description = Clean admin theme for the Pro 101 platform.
+base theme = rubik
+core = 7.x
+engine = phptemplate
+
+stylesheets[all][] = propanel.css
