@@ -3,5 +3,6 @@ description = Clean admin theme for the Pro 101 platform.
 base theme = rubik
 core = 7.x
 engine = phptemplate
+version = '1.0'
 
 stylesheets[screen][] = css/propanel.css
