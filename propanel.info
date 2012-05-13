@@ -4,4 +4,4 @@ base theme = rubik
 core = 7.x
 engine = phptemplate
 
-stylesheets[all][] = propanel.css
+stylesheets[screen][] = css/propanel.css
